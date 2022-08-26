@@ -1,0 +1,46 @@
+body {
+    background-image: linear-gradient( rgb(51, 191, 51, 0.85) 5%, rgb(44, 44, 197, 0.65) 25%, rgb(51, 191, 51, 0.65) 50%, rgb(44, 44, 197, 0.65) 60%, rgb(51, 191, 51, 0.96)), url(https://thumbs.dreamstime.com/b/brazil-outline-map-vector-illustration-isolated-white-background-125575261.jpg);
+    background-size: 100vw; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: helvetica;
+    color: rgba(255, 255, 255, 0.768);
+    text-shadow: 1px 1px rgb(189, 115, 115);
+  }
+  
+  h1 {
+    text-align: center;
+  text-decoration: underline double 2px rgb(238, 167, 34);
+  margin-top: 10px;
+    font-size: 35px;
+    font-family: houstoner;
+  }
+  
+  #image {
+    height: auto;
+    width: 80%;
+    max-width: 100%;
+    min-width: 200px;
+    border-radius: 50% / 48%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 12px;
+    display: block;
+    opacity:  85%;
+    box-shadow: 0 -8px 20px rgb(240, 174, 52);
+    
+  }
+  figcaption {
+    text-align: center;
+    font-size: 12px;
+    padding-bottom: 30px;
+    text-shadow: 1px 1px rgb(189, 115, 115);
+  }
+  p {
+    color: rgb(240, 174, 52);
+    opacity: 85%;
+    text-align: center;
+    text-indent: 30px;
+  
+  }
+  
